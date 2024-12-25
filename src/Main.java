@@ -33,4 +33,4 @@ public class Main {
         System.out.println("Сумма равна: " + sum);
         scanner.close();
     }
-}1,
+}
